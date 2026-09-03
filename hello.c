@@ -1,1 +1,2 @@
+git remote add origin https://LOGIN:TOKEN@github.com/LOGIN/hello.git
 
